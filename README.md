@@ -23,7 +23,7 @@
 
 🎯 Welcome to the project repository of my website! 
 
-This is a basically a ecommerce website for mainly shoe stores, <a href="sneakify.000webhostapp.com/" target="_blank">Sneakify</a> showcasing me.<br/>
+This is a E-commerce website for mainly shoe stores, <a href="sneakify.000webhostapp.com/" target="_blank">Sneakify</a>.<br/>
 
 
 Works are still being done actively in the background to make it better. Should you notice some minor discrepancies like minor bugs and issues, please feel free to create an Issue.
